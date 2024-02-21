@@ -37,6 +37,5 @@
 <div align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=parassetia889&" alt="parassetia889" /></p>
 </div>
-<img src="https://raw.githubusercontent.com/parassetia889/parassetia889/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/parassetia889/parassetia889/blob/output/github-contribution-grid-snake.svg)
 ###
